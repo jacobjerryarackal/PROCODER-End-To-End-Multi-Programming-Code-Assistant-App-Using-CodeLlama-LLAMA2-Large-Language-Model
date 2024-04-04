@@ -31,18 +31,17 @@ pip install -r requirements.txt
     ```
     Replace `<path_to_script.py>` with the path to the script file.
 
-2. **Enter Your Google API Key**: Securely enter your Google API key when prompted. This key enables the application to access Google's Generative AI models.
-
-3. **Upload PDF Documents**: You can upload one or multiple PDF documents. The application will analyze the content of these documents to respond to queries.
-
-4. **Ask Questions**: Once your documents are processed, you can ask any question related to the content of your uploaded documents.
+2. **Ask Questions**: Once your application is loaded, you can ask any question related to the code and enter submit button.
 
 ### Technical Overview
 
 - **Gradio**: It is an open-source Python package that allows you to quickly build a demo or web application for your machine learning model, API, or any arbitary Python function.
-- **Text Chunking**: Employs the `RecursiveCharacterTextSplitter` from LangChain for dividing the extracted text into manageable chunks.
-- **Vector Store Creation**: Uses `FAISS` for creating a searchable vector store from text chunks.
-- **Answer Generation**: Leverages `ChatGoogleGenerativeAI` from LangChain for generating answers to user queries using the context provided by the uploaded documents.
-
+- **Code Llama**: A large language model that can use text prompts to generate and discuss code.
+- 
 
 ### Support
+For issues, questions, or contributions, please refer to the GitHub repository issues section or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
