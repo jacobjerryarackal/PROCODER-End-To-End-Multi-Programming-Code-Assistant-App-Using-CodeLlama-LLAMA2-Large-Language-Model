@@ -5,7 +5,7 @@ PROCODER is a powerful Gradio application designed to work as a Code Assistant A
 ## Features
 
 - **Instant Insights**: Enhance code quality instantly, readability, optimization, fostering efficient and effective coding practices.
-- **Advanced Contextual Understanding**: The app can analyze your input query or prompt and understand the context of what you're trying to achieve and generate code accordingly.
+- **Advanced Contextual Understanding**: The app can analyze your input query or prompt, understand the context of what you're trying to achieve and generate code accordingly.
 - **Document Generation**: It can automatically generate documentation for your code, which can save you time and help others understand your code.
 
 ## Getting Started
