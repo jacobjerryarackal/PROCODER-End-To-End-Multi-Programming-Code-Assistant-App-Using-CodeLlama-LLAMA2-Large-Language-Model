@@ -1,6 +1,6 @@
 # PROCODER : End-To-End-Multi-Programming-Code-Assistant-App-Using-CodeLlama-LLAMA2-Large-Language-Model
 
-PROCODER is a powerful Streamlit application designed to work as a Code Assistant App. This innovative app offers real-time code suggestions, syntax highlighting, and debugging assistance. With the backing of a Large Language Model Code Llama, it's your indispensable tool for efficient and error-free coding, tailored to your programming needs.
+PROCODER is a powerful Gradio application designed to work as a Code Assistant App. This innovative app offers real-time code suggestions, syntax highlighting, and debugging assistance. With the backing of a Large Language Model Code Llama, it's your indispensable tool for efficient and error-free coding, tailored to your programming needs.
 
 ## Features
 
