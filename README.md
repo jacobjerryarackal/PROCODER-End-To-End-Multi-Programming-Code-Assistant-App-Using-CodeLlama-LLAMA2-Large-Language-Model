@@ -23,6 +23,18 @@ Clone this repository or download the source code to your local machine. Navigat
 pip install -r requirements.txt
 ```
 
+## 🖼️ Screenshots
+
+### Logo
+![Logo](assets/logo.png)
+
+### AI Response
+![AI Response](assets/pic1.png)
+![AI Response](assets/pic2.png)
+![AI Response](assets/pic3.png)
+![AI Response](assets/pic4.png)
+
+
 ### How to Use
 
 1. **Start the Application**: Launch the Python application by running the command:
